@@ -22,6 +22,9 @@
 [Przykłady i zadania w Python z technologii chemicznej](https://github.com/sbednarz/bioref-2022-computer-modelling)
 
 [Materiały do zajęć z Modelowania procesów (bio)technologicznych - edycja 2015](https://github.com/sbednarz/modelowanie)
+[Wykresy i Python](https://github.com/sbednarz/wykresy)
+
+
 
 [Modeling in Chemical Technology and Biotechnology: Numerical Calculations with Python](https://github.com/sbednarz/modeling)
 
