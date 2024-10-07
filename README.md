@@ -1,9 +1,9 @@
-### Modelowanie procesów biotechnologicznych (2023/2024)
+### Modelowanie procesów biotechnologicznych (2023/2024 i 2024/2025)
 #### Wydział Inżynierii i Technologii Chemicznej Politechnika Krakowska
 
 ---
 
-[:arrow_forward: Uruchom Python/Jupyter w chmurze MyBinder z dostępem do materiałów z zajęć](http://mybinder.org/v2/gh/sbednarz/modelowanie-2023-2024/main)
+[:arrow_forward: Uruchom Python/Jupyter w chmurze MyBinder z dostępem do materiałów z zajęć](http://mybinder.org/v2/gh/sbednarz/modelowanie-2023-2024-2025/main)
 
 
 #### Materiały do zajęć:
